@@ -1,3 +1,7 @@
+/*
+    NOTE: This test needs to be rewritten to reflect updated MainActivity.
+ */
+
 package com.acme.csci3130;
 
 import org.junit.Before;
